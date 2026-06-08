@@ -1,0 +1,22 @@
+Well Name: Well-A14
+Field: Seria Field (SWA)
+Formation: Seria Sand, Zone 3
+Depth: 3,200 ft TVD
+Reservoir Pressure: 2,850 psi
+Flowing Bottomhole Pressure: 2,200 psi (drawdown = 650 psi)
+
+Production Data:
+  Current Flow Rate: 520 STB/day
+  Initial Flow Rate (qi): 1,100 STB/day (at first production, 5 years ago)
+  Cumulative Oil Production: 0.85 MMSTB
+  Original Oil In Place (OOIP): 4.2 MMSTB
+
+Drive Mechanism: Solution gas drive (primary recovery)
+GOR: 850 scf/STB
+Water Cut: 18%
+API Gravity: 34°
+
+Notes:
+  - Well has not been stimulated
+  - Casing integrity confirmed in last PLT (2 years ago)
+  - Candidate for artificial lift evaluation
